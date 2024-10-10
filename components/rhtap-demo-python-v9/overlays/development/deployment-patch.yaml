@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/ducksause/demo-python:60c35f5a9bc2bd057732fc5bbe3e285a897e5e69@sha256:e9089f2afda05b5489626efa6f37efef828a61253ca60f6810a29d655b4c1b8a
+        - image: quay.io/ducksause/demo-python:07c6979ba49eec8ae51c43e6999cea88630c7a35@sha256:1a37f8a20ea991d11997cb9cdc531ea3fb1eb20c959c174226cb9593505bfaaf
           name: container-image
